@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Alura Backend.iml" filepath="$PROJECT_DIR$/.idea/Alura Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioTemperatura/DesafioTemperatura.iml" filepath="$PROJECT_DIR$/DesafioTemperatura/DesafioTemperatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimerPrograma/PrimerPrograma.iml" filepath="$PROJECT_DIR$/PrimerPrograma/PrimerPrograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScreenMatch/ScreenMatch.iml" filepath="$PROJECT_DIR$/ScreenMatch/ScreenMatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScreenMatchPOO/ScreenMatchPOO.iml" filepath="$PROJECT_DIR$/ScreenMatchPOO/ScreenMatchPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeBancking/homeBancking.iml" filepath="$PROJECT_DIR$/homeBancking/homeBancking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homeBancking2/homeBancking2.iml" filepath="$PROJECT_DIR$/homeBancking2/homeBancking2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/radioalura/radioalura.iml" filepath="$PROJECT_DIR$/radioalura/radioalura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starwarsapi/starwarsapi.iml" filepath="$PROJECT_DIR$/starwarsapi/starwarsapi.iml" />
+    </modules>
+  </component>
+</project>

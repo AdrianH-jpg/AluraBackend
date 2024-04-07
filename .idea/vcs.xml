@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DesafioTemperatura" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PrimerPrograma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ScreenMatch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ScreenMatchPOO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homeBancking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/homeBancking2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/radioalura" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/starwarsapi" vcs="Git" />
+  </component>
+</project>
